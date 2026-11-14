@@ -1,0 +1,2 @@
+[tool.fastapi]
+entrypoint = "week5.main:app"
